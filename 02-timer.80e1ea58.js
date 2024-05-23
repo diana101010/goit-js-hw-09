@@ -59,4 +59,6 @@ function functionStart() {
   }, 1000);
   startButton.disabled = true;
 }
+
+
 //# sourceMappingURL=02-timer.80e1ea58.js.map
