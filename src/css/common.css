@@ -36,4 +36,5 @@ img {
 .label {
   font-size: 12px;
   color: #120909;
+  display: flex;
 }
